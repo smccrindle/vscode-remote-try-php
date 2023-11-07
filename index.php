@@ -17,7 +17,7 @@ function sayHello($name) {
 	</head>
 	<body>
 		<?php 
-		include ("includes/nav.php");
+		include ("/includes/nav.php");
 		?>
 	</body>
 </html>

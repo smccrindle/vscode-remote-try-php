@@ -17,11 +17,7 @@ function sayHello($name) {
 	</head>
 	<body>
 		<?php 
-		
-		sayHello('remote world');
-			
-		phpinfo(); 
-			
+		include ("includes/nav.php");
 		?>
 	</body>
 </html>
